@@ -17,7 +17,7 @@ Me enfoco en crear sistemas funcionales, escalables y orientados a resolver nece
 ## 🛠️ Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,nextjs,bootstrap,flutter,mysql,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,html,css,nextjs,bootstrap,flutter,mysql,git,github,docker" />
 </p>
 
 **Lenguajes:** Python · PHP · JavaScript · TypeScript  
